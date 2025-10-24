@@ -6,6 +6,15 @@ main {
   padding: 1rem;
   max-width: 600px;
 }
+
+.grid a[role="button"] {
+  display: inline-block;
+  width: 100%;
+}
+
+.no-bottom-margin {
+  margin-bottom: 0;
+}
 </style>
 
 <template>
@@ -30,10 +39,11 @@ main {
       Bushkov now feels has irrevocably changed. Through cinematic sequencing and two deeply personal letters written
       after the birth of his son, Bushkov fuses tenderness, absurdity, and contradiction, capturing the dissonance of
       what it means to be a family across distance, borders, and time.</p>
+
     <div class="grid">
       <div>
         <a role="button" target="_blank" rel="noopener" href="https://ciaopress.com/">Order with Ciao Press</a>
-        <p class="attention"><small><em>First 50 orders with Ciao will include a signed print from the book as a
+        <p class="attention no-bottom-margin"><small><em>First 50 orders with Ciao will include a signed print from the book as a
               gift.</em></small></p>
       </div>
       <div>
@@ -51,20 +61,17 @@ main {
       adults remain silent, and a war in the background destroys lives. Meanwhile, kids are growing up and the clouds
       fly past.</p>
     <p>Director: Nastia Korkia<br>
-      Screenplay: Nastia Korkia, Mikhail Bushkov<br>
+      Screenplay: Nastia Korkia, Misha Bushkov<br>
       Production: Tamtam GmbH, Totem Atelier, Art & Popcorn</p>
     <div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/2yqXG3OcpNQ?si=kr_iSxjstk3UdtDL"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <a href="https://youtu.be/2yqXG3OcpNQ?si=hYEKQZQvDSGvkXGI" target="_blank" rel="noopener">Watch Trailer</a>
     </div>
 
     <br>
     <p>Awards:</p>
     <ul>
-      <li>Luigi De Laurentiis Venice Award for a Debut Film at the 82nd Venice Film Festival (2025)
-      </li>
+      <li>Luigi De Laurentiis Venice Award for a Debut Film at the 82nd Venice Film Festival (2025)</li>
+      <li>Gold Hugo, New Directors Competition at Chicago International Film Festival (2025)</li>
     </ul>
 
     <p>Festivals:</p>
@@ -73,7 +80,7 @@ main {
       <li>Chicago International Film Festival (USA)</li>
       <li>Filmfest Hamburg (Germany)</li>
       <li>BFI London Film Festival (UK)</li>
-      <li>São Paulo International Film Festival (Brazil)</li>
+      <li>Film Fest Gent (Belgium)</li>
       <li>Vienna International Film Festival (Austria)</li>
     </ul>
 
