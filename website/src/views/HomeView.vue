@@ -31,7 +31,7 @@ main {
     <br>
     <hgroup>
       <h1>«the black rat has died»</h1>
-      <h2 class="pico-color-red-400">New photobook, ready to pre-order!</h2>
+      <h2 class="pico-color-red-400">New photobook</h2>
     </hgroup>
     <p>«the black rat has died» is a raw, bittersweet, and at times darkly ironic book about life, death, and family.
       Misha Bushkov interweaves intimate scenes of his wife’s pregnancy in Switzerland with pictures of his extended
@@ -72,6 +72,7 @@ main {
     <ul>
       <li>Luigi De Laurentiis Venice Award for a Debut Film at the 82nd Venice Film Festival (2025)</li>
       <li>Gold Hugo, New Directors Competition at Chicago International Film Festival (2025)</li>
+      <li>Grand Prix and Young Jury Award at Porto/Post/Doc Film Festival (2025)</li>
     </ul>
 
     <p>Festivals:</p>
@@ -82,6 +83,7 @@ main {
       <li>BFI London Film Festival (UK)</li>
       <li>Film Fest Gent (Belgium)</li>
       <li>Vienna International Film Festival (Austria)</li>
+      <li>Porto/Post/Doc Film Festival</li>
     </ul>
 
     <!-- <h1>Documentary Movies</h1>
