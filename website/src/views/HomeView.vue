@@ -43,8 +43,6 @@ main {
     <div class="grid">
       <div>
         <a role="button" target="_blank" rel="noopener" href="https://ciaopress.com/">Order with Ciao Press</a>
-        <p class="attention no-bottom-margin"><small><em>First 50 orders with Ciao will include a signed print from the book as a
-              gift.</em></small></p>
       </div>
       <div>
         <a role="button" target="_blank" rel="noopener" href="https://witty-books.com/the-black-rat-has-died-Misha-Bushkov">Order with Witty Books</a>
